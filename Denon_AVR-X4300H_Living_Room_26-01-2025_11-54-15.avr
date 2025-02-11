@@ -1,0 +1,44 @@
+{
+  "avrTypeId": "AVRFILE",
+  "avrVersion": 2,
+  "libaudVersion": "v0.9-19-g8c96399",
+  "title": "Denon_AVR-X4300H_Living_Room_26-01-2025_11-54-15",
+  "targetModelName": "Denon AVR-X4300H",
+  "interfaceVersion": "00.08",
+  "lfcSupport": true,
+  "systemDelay": 124,
+  "adcLineup": 2.115000009536743,
+  "dataType": "Float",
+  "enAmpAssignType": 3,
+  "enMultEQType": 2,
+  "ampAssignInfo": "0302030100000000010002000200200001001000200010000100200002081002020200010203040500010000",
+  "auro": false,
+  "upgradeInfo": "None",
+  "dolbyVersion": 0.0,
+  "subwooferNum": 1,
+  "subwooferMode": "N/A",
+  "subwooferLayout": "N/A",
+  "detectedChannels": [
+    {
+      "enChannelType": 0,
+      "commandId": "FL",
+      "channelReport": {
+        "distance": 0.0
+      }
+    },
+    {
+      "enChannelType": 2,
+      "commandId": "FR",
+      "channelReport": {
+        "distance": 0.0
+      }
+    },
+    {
+      "enChannelType": 54,
+      "commandId": "SW1",
+      "channelReport": {
+        "distance": 0.0
+      }
+    }
+  ]
+}
